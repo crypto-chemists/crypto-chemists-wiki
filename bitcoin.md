@@ -1,14 +1,14 @@
-Bitcoin
+Bitcoin <br/>
 
-Symbol : BTC
-Subject : Cryptocurrency
-Date : January 3rd 2009
-Creator : Satoshi Nakamoto
+Symbol : BTC <br/>
+Subject : Cryptocurrency <br/>
+Date : January 3rd 2009 <br/>
+Creator : Satoshi Nakamoto <br/>
 
-Context :
+Context : <br/>
 
-Technology :
+Technology : <br/>
 
-Use : 
+Use : <br/>
 
-Funny Fact :
+Funny Fact : <br/>
