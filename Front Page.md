@@ -10,11 +10,11 @@ categories: lang_fr
 
 ## Bienvenue
 
-CryptoChemists Wiki est un projet d'encyclopédie collective en ligne destinée à centraliser tant les connaissances utiles et nécessaires à la survie individuelle et collective en cas d'[effondrement systémique](Effondrement_(Définition)) que la construction progressive d'une société durable. 
+CryptoChemists Wiki est un projet d'encyclopédie collective en ligne destinée à centraliser tant les connaissances sur les blockchains que sur les crypto-monnaies. 
 
 Ce projet fonctionne sur le principe du wiki. Il vise à offrir un contenu librement réutilisable, objectif et vérifiable, que chacun peut modifier et améliorer.
 
-Resilience.Wiki est défini par des principes fondateurs. Son contenu est sous licence Creative Commons BY-SA. Il peut être copié et réutilisé sous la même licence, sous réserve d'en respecter les conditions.
+CryptoChemists Wiki est défini par des principes fondateurs. Son contenu est sous licence Creative Commons BY-SA. Il peut être copié et réutilisé sous la même licence, sous réserve d'en respecter les conditions.
 
 Les rédacteurs des articles de CryptoChemists Wiki sont bénévoles. Ils coordonnent leurs efforts au sein d'une communauté collaborative, sans dirigeant.
 
@@ -28,10 +28,7 @@ Les rédacteurs des articles de CryptoChemists Wiki sont bénévoles. Ils coordo
 
 Chaque article doit posséder : 
 
-* une référence à un type d'effondrement issu de la [Liste_des_effondrements]() selon celui qui est le plus probable de l'engendrer.
-* un état d'avancement de l'effondrement selon la [Liste_des_niveaux_d'effondrement]()
-* les compétences parmi la [Liste_des_competences]()
-* une information sur la géographie, parmi la [Liste_des_géographies]()
+* FIXME
 
 ### Créer de nouveaux articles
 
