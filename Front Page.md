@@ -10,13 +10,13 @@ categories: lang_fr
 
 ## Bienvenue
 
-Resilience.Wiki est un projet d'encyclopédie collective en ligne destinée à centraliser tant les connaissances utiles et nécessaires à la survie individuelle et collective en cas d'[effondrement systémique](Effondrement_(Définition)) que la construction progressive d'une société durable. 
+CryptoChemists Wiki est un projet d'encyclopédie collective en ligne destinée à centraliser tant les connaissances utiles et nécessaires à la survie individuelle et collective en cas d'[effondrement systémique](Effondrement_(Définition)) que la construction progressive d'une société durable. 
 
 Ce projet fonctionne sur le principe du wiki. Il vise à offrir un contenu librement réutilisable, objectif et vérifiable, que chacun peut modifier et améliorer.
 
 Resilience.Wiki est défini par des principes fondateurs. Son contenu est sous licence Creative Commons BY-SA. Il peut être copié et réutilisé sous la même licence, sous réserve d'en respecter les conditions.
 
-Les rédacteurs des articles de Resilience.Wiki sont bénévoles. Ils coordonnent leurs efforts au sein d'une communauté collaborative, sans dirigeant.
+Les rédacteurs des articles de CryptoChemists Wiki sont bénévoles. Ils coordonnent leurs efforts au sein d'une communauté collaborative, sans dirigeant.
 
 </div>
 
