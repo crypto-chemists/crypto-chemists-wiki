@@ -26,7 +26,8 @@ The authors of CryptoChemists Wiki articles are volunteers. They coordinate thei
 
 ### Improve existing articles
 
-Each item must have : 
+* Help articles to be consistent, complete, and have the right references to verify the veracity of what is written. See [Writing_Guidelines]()
+* Answer to [Popular_Questions]() 
 
 * FIXED
 
