@@ -1,6 +1,6 @@
 ---
 title: CryptoChemists Wiki
-categories: lang_fr
+categories: lang_en
 ...
 
 
@@ -8,34 +8,34 @@ categories: lang_fr
 
 <div class="column">
 
-## Bienvenue
+## Welcome
 
-CryptoChemists Wiki est un projet d'encyclopédie collective en ligne destinée à centraliser tant les connaissances sur les blockchains que sur les crypto-monnaies. 
+CryptoChemists Wiki is an online collective encyclopedia project designed to centralize knowledge on both blockchains and crypto-currencies. 
 
-Ce projet fonctionne sur le principe du wiki. Il vise à offrir un contenu librement réutilisable, objectif et vérifiable, que chacun peut modifier et améliorer.
+This project works on the wiki principle. It aims to offer freely reusable, objective and verifiable content that anyone can modify and improve.
 
-CryptoChemists Wiki est défini par des principes fondateurs. Son contenu est sous licence Creative Commons BY-SA. Il peut être copié et réutilisé sous la même licence, sous réserve d'en respecter les conditions.
+CryptoChemists Wiki is defined by founding principles. Its content is licensed under a Creative Commons BY-SA license. It can be copied and reused under the same license, provided that the conditions are respected.
 
-Les rédacteurs des articles de CryptoChemists Wiki sont bénévoles. Ils coordonnent leurs efforts au sein d'une communauté collaborative, sans dirigeant.
+The authors of CryptoChemists Wiki articles are volunteers. They coordinate their efforts in a collaborative, leaderless community.
 
 </div>
 
 <div class="column">
 
-## Comment contribuer ?
+## How to contribute?
 
-### Améliorer les articles existants
+### Improve existing articles
 
-Chaque article doit posséder : 
+Each item must have : 
 
-* FIXME
+* FIXED
 
-### Créer de nouveaux articles
+### Create new articles
 
-De nombreux articles restent à écrire. Jetez un coup d'oeil aux listes suivantes et créez de nouvelles pages !
+Many articles remain to be written. Take a look at the following lists and create new pages!
 
-* [Ressources_En_Vrac]() 
-* [Articles_A_Intégrer]()
+* [Unsorted_Resources]() 
+* [Articles_To_Add]()
 
 </div>
 
