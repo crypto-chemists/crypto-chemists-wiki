@@ -43,12 +43,13 @@ Many articles remain to be written. Take a look at the following lists and creat
 
 <div class="row">
 
+<div class="column">
+
+
 ## Webinars
 
 
 See also the [Webinars]() page.
-
-<div class="column">
 
 </div>
 
