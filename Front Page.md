@@ -47,10 +47,12 @@ Many articles remain to be written. Take a look at the following lists and creat
 <div class="column">
 
 
-## Webinars
+## Upcoming webinars
 
+* 2021-05-25 - [The environmental impact of blockchains]()
+* 2021-05-27 - [NFT and art: speculation or revolution]()
 
-See also the [Webinars]() page.
+See also the [Webinars]() page for past webinars.
 
 </div>
 
