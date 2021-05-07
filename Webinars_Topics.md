@@ -1,3 +1,7 @@
+---
+categories: webinar
+...
+
 ## Future topics
 
 * Crypto-coins: debt-free assets!
