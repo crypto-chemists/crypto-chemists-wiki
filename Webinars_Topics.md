@@ -11,9 +11,9 @@ categories: webinar topic
 * Blockchains: totalitarian or liberating technologies?
 * GDPR, privacy & blockchains
 * Creating consensus : proof of work VS proof of stake VS proof of space VS ...
-** different kinds of mining
-** a centralized or decentralized perspective ? depending on criteria
-** https://old.reddit.com/r/explainlikeimfive/comments/k22tpl/eli5_what_is_proof_of_stake_consensus_and_how_is/
+    * different kinds of mining
+    * a centralized or decentralized perspective ? depending on criteria
+    * https://old.reddit.com/r/explainlikeimfive/comments/k22tpl/eli5_what_is_proof_of_stake_consensus_and_how_is/
 
 * Public, private & hybrid blockchain: what are the differences?
 
