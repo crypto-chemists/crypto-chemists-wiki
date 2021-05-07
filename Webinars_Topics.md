@@ -1,5 +1,5 @@
 ---
-categories: webinar
+categories: webinar topic
 ...
 
 ## Future topics
