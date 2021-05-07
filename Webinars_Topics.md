@@ -40,7 +40,7 @@ categories: webinar topic
 * Creating consensus : proof of work VS proof of stake VS proof of space VS ...
     * different kinds of mining
     * a centralized or decentralized perspective ? depending on criteria
-    * https://old.reddit.com/r/explainlikeimfive/comments/k22tpl/eli5_what_is_proof_of_stake_consensus_and_how_is/
+    * [Reddit: What is proof of stake consensus and ...](https://old.reddit.com/r/explainlikeimfive/comments/k22tpl/eli5_what_is_proof_of_stake_consensus_and_how_is/)
 
 * What is crypto stacking
   * https://old.reddit.com/r/explainlikeimfive/comments/lzsvrf/eli5_what_is_crypto_staking/
