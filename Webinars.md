@@ -2,8 +2,8 @@
 
 ## Planned topics
 
-* 2021-05-25 - L'impact environnemental des blockchains
-* 2021-05-27 - NFT & Art : Spéculation ou révolution
+* 2021-05-25 - The environmental impact of blockchains
+* 2021-05-27 - NFT & Art : Speculation or revolution
 
 ## Future topics
 
