@@ -38,6 +38,7 @@ categories: webinar environment blockchain
 * [H. Vranken, Sustainability of bitcoin and blockchains](https://www.sciencedirect.com/science/article/abs/pii/S1877343517300015)
 * Hass McCook - [The Cost & Sustainability of Bitcoin (August 2018)](https://hassmccook.medium.com/the-economic-environmental-cost-of-bitcoin-part-i-ac162067721d)
 * M. Zade, J. Myklebost, P. Tzscheutschler and U. Wagner - [Is Bitcoin the Only Problem? A Scenario Model for the Power Demand of Blockchains](https://www.frontiersin.org/articles/10.3389/fenrg.2019.00021/full)
+* P. De Filippi, [Blockchain et cryptomonnaies](https://www.puf.com/content/Blockchain_et_cryptomonnaies)
 
 ### Institutionnal
 
