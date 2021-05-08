@@ -53,9 +53,9 @@ categories: webinar environment blockchain
 
 ### Organizations & Projects
 
-* https://bitnodes.io/
 * https://proofofstake.com/
 * [Cambridge Bitcoin Electricity Consumption Index (live)](https://cbeci.org/)
+* [Global Bitcoin nodes distribution](https://bitnodes.io/) 
 
 ### Blogs, vlogs, podcasts
 
