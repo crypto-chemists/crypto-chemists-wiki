@@ -44,7 +44,7 @@ categories: webinar environment blockchain
 * L.Ante, F.Steinmetz, I.Fiedler (March 2021), [Blockchain and energy: A bibliometric analysis and review](https://www.sciencedirect.com/science/article/abs/pii/S1364032120308819)
 * C. Mora, R. L. Rollins, K. Taladay, M. B. Kantar, M. K. Chock, M. Shimada, E. C. Franklin (October 2018), [Bitcoin emissions alone could push global warming above 2°C]()
 
-### Institutional
+### Official & Institutional
 
 * Assemblée Nationale (France), [Enjeux technologiques des blockchains (chaînes de blocs)](https://www.assemblee-nationale.fr/dyn/15/dossiers/enjeux_technologiques_blockchains_rap-info)
 * CNRS (France), [Consommation énergétique des technologies blockchain](https://ecoinfo.cnrs.fr/2020/02/11/consommation-energetique-des-technologies-blockchain/)
