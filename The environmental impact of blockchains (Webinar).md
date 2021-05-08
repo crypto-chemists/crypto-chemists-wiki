@@ -37,9 +37,9 @@ categories: webinar environment blockchain
 * Hass McCook (August 2018), [The Cost & Sustainability of Bitcoin](https://hassmccook.medium.com/the-economic-environmental-cost-of-bitcoin-part-i-ac162067721d)
 * C. Stoll, L. Klaaßen, U. Gallersdörfer (June 2019), [The Carbon Footprint of Bitcoin](https://www.cell.com/joule/fulltext/S2542-4351(19)30255-7#%20)
 * A. De Vries (March 2021), [Bitcoin Boom: What Rising Prices Mean for the Network's Energy Consumption](https://www.researchgate.net/publication
+* L.Ante, F.Steinmetz, I.Fiedler (March 2021), [Blockchain and energy: A bibliometric analysis and review](https://www.sciencedirect.com/science/article/abs/pii/S1364032120308819)
 
 * [J. Sedlmeir, H. U. Buhl, G. Fridgen & R. Keller , The Energy Consumption of Blockchain Technology \: Beyond Myth](https://link.springer.com/article/10.1007/s12599-020-00656-x)
-* [](https://www.sciencedirect.com/science/article/abs/pii/S1364032120308819)
 * [H. Vranken, Sustainability of bitcoin and blockchains](https://www.sciencedirect.com/science/article/abs/pii/S1877343517300015)
 * M. Zade, J. Myklebost, P. Tzscheutschler and U. Wagner - [Is Bitcoin the Only Problem? A Scenario Model for the Power Demand of Blockchains](https://www.frontiersin.org/articles/10.3389/fenrg.2019.00021/full)
 * P. De Filippi, [Blockchain et cryptomonnaies](https://www.puf.com/content/Blockchain_et_cryptomonnaies)
