@@ -31,9 +31,9 @@ categories: webinar environment blockchain
 
 ### Institutionnal
 
-* Assemblée Nationale (France) - [Enjeux technologiques des blockchains (chaînes de blocs)](https://www.assemblee-nationale.fr/dyn/15/dossiers/enjeux_technologiques_blockchains_rap-info)
-* CNRS (France) - [Consommation énergétique des technologies blockchain](https://ecoinfo.cnrs.fr/2020/02/11/consommation-energetique-des-technologies-blockchain/)
-* European Commission - [Experience the future with the European Blockchain Services Infrastructure (EBSI)](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/ebsi)
+* Assemblée Nationale (France), [Enjeux technologiques des blockchains (chaînes de blocs)](https://www.assemblee-nationale.fr/dyn/15/dossiers/enjeux_technologiques_blockchains_rap-info)
+* CNRS (France), [Consommation énergétique des technologies blockchain](https://ecoinfo.cnrs.fr/2020/02/11/consommation-energetique-des-technologies-blockchain/)
+* European Commission, [Experience the future with the European Blockchain Services Infrastructure (EBSI)](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/ebsi)
 
 ### Organizations
 
@@ -42,8 +42,8 @@ categories: webinar environment blockchain
 
 ### Blogs, vlogs, podcasts
 
-* JP. Delahaye - [La dépense électrique des crypto-monnaies](https://bitcoin.fr/la-depense-electrique-des-crypto-monnaies/)
-* JP. Delahaye - [Ne nions pas le problème électrique du Bitcoin](https://bitcoin.fr/ne-nions-pas-le-probleme-electrique-du-bitcoin/)
+* JP. Delahaye, [La dépense électrique des crypto-monnaies](https://bitcoin.fr/la-depense-electrique-des-crypto-monnaies/)
+* JP. Delahaye, [Ne nions pas le problème électrique du Bitcoin](https://bitcoin.fr/ne-nions-pas-le-probleme-electrique-du-bitcoin/)
 * [Youtube - FACT CHECK: Bitcoin Mining is BAD For The Climate!? 🌎](https://www.youtube.com/watch?v=DidAwxWaDKI)
-* [Standblog - Le bitcoin est il écolo](https://standblog.org/blog/post/2021/04/26/Le-Bitcoin-est-il-ecolo)
+* T. Nitot, [Standblog - Le bitcoin est il écolo](https://standblog.org/blog/post/2021/04/26/Le-Bitcoin-est-il-ecolo)
 * [Bitcoin Energy Consumption Index](https://digiconomist.net/bitcoin-energy-consumption)
