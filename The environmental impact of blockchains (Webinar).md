@@ -16,6 +16,13 @@ categories: webinar environment blockchain
 
 ## References
 
+### Unsorted
+
+* Daniel Larimer. Bitshares – Delegated Proof-of-Stake Consensus
+* https://proofofstake.com/
+* [Hass McCook, The Cost & Sustainability of Bitcoin (August 2018)](https://hassmccook.medium.com/the-economic-environmental-cost-of-bitcoin-part-i-ac162067721d)
+
+
 ### Academic
 
 * [J. Sedlmeir, H. U. Buhl, G. Fridgen & R. Keller , The Energy Consumption of Blockchain Technology \: Beyond Myth](https://link.springer.com/article/10.1007/s12599-020-00656-x)
