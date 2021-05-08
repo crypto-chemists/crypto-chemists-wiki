@@ -41,6 +41,7 @@ categories: webinar environment blockchain
 * P. De Filippi, [Blockchain et cryptomonnaies](https://www.puf.com/content/Blockchain_et_cryptomonnaies)
 * A. De Vries (March 2021), [Bitcoin Boom: What Rising Prices Mean for the Network's Energy Consumption](https://www.researchgate.net/publication/349952553_Bitcoin_Boom_What_Rising_Prices_Mean_for_the_Network's_Energy_Consumption) 
 * Dr G. Hileman & M. Rauchs, (January 2017), [2017 Global Cryptocurrency Benchmarking Study, SSRN Electronic Journal](https://www.researchgate.net/publication/317059599_2017_Global_Cryptocurrency_Benchmarking_Study)
+* C. Stoll, L. Klaaßen, U. Gallersdörfer (June 2019), [The Carbon Footprint of Bitcoin](https://www.cell.com/joule/fulltext/S2542-4351(19)30255-7#%20)
 
 ### Institutional
 
