@@ -16,6 +16,8 @@ categories: webinar environment blockchain
 
 ## References
 
+* [J. Sedlmeir, H. U. Buhl, G. Fridgen & R. Keller , The Energy Consumption of Blockchain Technology \: Beyond Myth](https://link.springer.com/article/10.1007/s12599-020-00656-x)
+
 * [Youtube - FACT CHECK: Bitcoin Mining is BAD For The Climate!? 🌎](https://www.youtube.com/watch?v=DidAwxWaDKI)
 * [Standblog - Le bitcoin est il écolo](https://standblog.org/blog/post/2021/04/26/Le-Bitcoin-est-il-ecolo)
 * [Bitcoin Energy Consumption Index](https://digiconomist.net/bitcoin-energy-consumption)
