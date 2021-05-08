@@ -67,10 +67,11 @@ categories: webinar environment blockchain
 * [Youtube - FACT CHECK: Bitcoin Mining is BAD For The Climate!? 🌎](https://www.youtube.com/watch?v=DidAwxWaDKI)
 * T. Nitot, [Standblog - Le bitcoin est il écolo](https://standblog.org/blog/post/2021/04/26/Le-Bitcoin-est-il-ecolo)
 * Digiconomist, [Bitcoin Energy Consumption Index](https://digiconomist.net/bitcoin-energy-consumption)
+* L. Wintermeyer, [Bitcoin’s Energy Consumption Is A Highly Charged Debate – Who’s Right?](https://www.forbes.com/sites/lawrencewintermeyer/2021/03/10/bitcoins-energy-consumption-is-a-highly-charged-debate--whos-right/?sh=423551937e78)
+* Coinbase, [7 biggest Bitcoin myths](https://www.coinbase.com/fr/learn/crypto-basics/7-biggest-bitcoin-myths)
+
 * Wired (December 2019), [Bitcoin's Climate Impact Is Global. The Cures Are Local.](https://www.wired.com/story/bitcoins-climate-impact-global-cures-local/)
 * D. Hollerith (October 2020), [Why Bitcoin Miners Don't Use More Renewable Energy](https://decrypt.co/43848/why-bitcoin-miners-dont-use-more-renewable-energy)
 * BBC News, Science (February 2021), [How Bitcoin's vast energy use could burst its bubble](https://www.bbc.com/news/science-environment-56215787)
-* L. Wintermeyer, [Bitcoin’s Energy Consumption Is A Highly Charged Debate – Who’s Right?](https://www.forbes.com/sites/lawrencewintermeyer/2021/03/10/bitcoins-energy-consumption-is-a-highly-charged-debate--whos-right/?sh=423551937e78)
 * Braiins.com (February 2021), [Green Innovation in Bitcoin Mining: Recycling ASIC Heat](https://braiins.com/blog/green-innovation-in-bitcoin-mining-recycling-asic-heat)
 
-* Coinbase, [7 biggest Bitcoin myths](https://www.coinbase.com/fr/learn/crypto-basics/7-biggest-bitcoin-myths)
