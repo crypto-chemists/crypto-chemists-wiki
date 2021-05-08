@@ -59,6 +59,7 @@ categories: webinar environment blockchain
 * [Consensus (types)](https://tokens-economy.gitbook.io/consensus/)
 * Blockchain.com, [Total hash rate in the bitcoin network in the last 24 hours](https://www.blockchain.com/charts/hash-rate)
 * Bitcoin Clean Energy Initiative Memorandum (April 2021), [Bitcoin is Key toan  Abundant, Clean  Energy Future](https://assets.ctfassets.net/2d5q1td6cyxq/5mRjc9X5LTXFFihIlTt7QK/e7bcba47217b60423a01a357e036105e/BCEI_White_Paper.pdf)
+* Coinbase, [7 biggest Bitcoin myths](https://www.coinbase.com/fr/learn/crypto-basics/7-biggest-bitcoin-myths)
 
 ### Blogs, vlogs, podcasts
 
