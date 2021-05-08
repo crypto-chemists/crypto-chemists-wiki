@@ -57,6 +57,7 @@ categories: webinar environment blockchain
     * [Bitcoin Mining Map](https://cbeci.org/mining_map)
 * [Global Bitcoin nodes distribution](https://bitnodes.io/) 
 * [Consensus (types)](https://tokens-economy.gitbook.io/consensus/)
+* Blockchain.com, [Total hash rate in the bitcoin network in the last 24 hours](https://www.blockchain.com/charts/hash-rate)
 
 ### Blogs, vlogs, podcasts
 
