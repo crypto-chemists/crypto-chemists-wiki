@@ -14,7 +14,7 @@ CryptoChemists Wiki is an online collective encyclopedia project designed to cen
 
 This project works on the wiki principle. It aims to offer freely reusable, objective and verifiable content that anyone can modify and improve.
 
-CryptoChemists Wiki is defined by founding principles. Its content is licensed under a Creative Commons BY-SA license. It can be copied and reused under the same license, provided that the conditions are respected.
+CryptoChemists Wiki is defined by founding principles. Its content is licensed under a [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. It can be copied and reused under the same license, provided that the conditions are respected.
 
 The authors of CryptoChemists Wiki articles are volunteers. They coordinate their efforts in a collaborative, leaderless community.
 
