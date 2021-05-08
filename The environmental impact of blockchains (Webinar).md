@@ -50,7 +50,7 @@ categories: webinar environment blockchain
 * CNRS (France), [Consommation énergétique des technologies blockchain](https://ecoinfo.cnrs.fr/2020/02/11/consommation-energetique-des-technologies-blockchain/)
 * European Commission, [Experience the future with the European Blockchain Services Infrastructure (EBSI)](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/ebsi)
 
-### Organizations & Projects
+### Organizations, Projects & Whitepapers
 
 * https://proofofstake.com/
 * [Cambridge Bitcoin Electricity Consumption Index (live)](https://cbeci.org/)
@@ -59,9 +59,8 @@ categories: webinar environment blockchain
 * [Consensus (types)](https://tokens-economy.gitbook.io/consensus/)
 * Blockchain.com, [Total hash rate in the bitcoin network in the last 24 hours](https://www.blockchain.com/charts/hash-rate)
 * Bitcoin Clean Energy Initiative Memorandum (April 2021), [Bitcoin is Key toan  Abundant, Clean  Energy Future](https://assets.ctfassets.net/2d5q1td6cyxq/5mRjc9X5LTXFFihIlTt7QK/e7bcba47217b60423a01a357e036105e/BCEI_White_Paper.pdf)
-* Coinbase, [7 biggest Bitcoin myths](https://www.coinbase.com/fr/learn/crypto-basics/7-biggest-bitcoin-myths)
 
-### Blogs, vlogs, podcasts
+### News, Blogs, vlogs, podcasts
 
 * JP. Delahaye, [La dépense électrique des crypto-monnaies](https://bitcoin.fr/la-depense-electrique-des-crypto-monnaies/)
 * JP. Delahaye, [Ne nions pas le problème électrique du Bitcoin](https://bitcoin.fr/ne-nions-pas-le-probleme-electrique-du-bitcoin/)
@@ -72,3 +71,6 @@ categories: webinar environment blockchain
 * D. Hollerith (October 2020), [Why Bitcoin Miners Don't Use More Renewable Energy](https://decrypt.co/43848/why-bitcoin-miners-dont-use-more-renewable-energy)
 * BBC News, Science (February 2021), [How Bitcoin's vast energy use could burst its bubble](https://www.bbc.com/news/science-environment-56215787)
 * L. Wintermeyer, [Bitcoin’s Energy Consumption Is A Highly Charged Debate – Who’s Right?](https://www.forbes.com/sites/lawrencewintermeyer/2021/03/10/bitcoins-energy-consumption-is-a-highly-charged-debate--whos-right/?sh=423551937e78)
+* Braiins.com (February 2021), [Green Innovation in Bitcoin Mining: Recycling ASIC Heat](https://braiins.com/blog/green-innovation-in-bitcoin-mining-recycling-asic-heat)
+
+* Coinbase, [7 biggest Bitcoin myths](https://www.coinbase.com/fr/learn/crypto-basics/7-biggest-bitcoin-myths)
