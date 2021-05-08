@@ -11,7 +11,7 @@ categories: webinar environment blockchain
 
 ### The case of Bitcoin
 
-## Impact 
+## Environmental Impact 
 
 ### Impact types
 
