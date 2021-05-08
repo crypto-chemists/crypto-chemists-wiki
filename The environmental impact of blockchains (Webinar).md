@@ -36,10 +36,10 @@ categories: webinar environment blockchain
 * [J. Sedlmeir, H. U. Buhl, G. Fridgen & R. Keller , The Energy Consumption of Blockchain Technology \: Beyond Myth](https://link.springer.com/article/10.1007/s12599-020-00656-x)
 * [](https://www.sciencedirect.com/science/article/abs/pii/S1364032120308819)
 * [H. Vranken, Sustainability of bitcoin and blockchains](https://www.sciencedirect.com/science/article/abs/pii/S1877343517300015)
-* Hass McCook - [The Cost & Sustainability of Bitcoin (August 2018)](https://hassmccook.medium.com/the-economic-environmental-cost-of-bitcoin-part-i-ac162067721d)
+* Hass McCook - [The Cost & Sustainability of Bitcoin](https://hassmccook.medium.com/the-economic-environmental-cost-of-bitcoin-part-i-ac162067721d) (August 2018)
 * M. Zade, J. Myklebost, P. Tzscheutschler and U. Wagner - [Is Bitcoin the Only Problem? A Scenario Model for the Power Demand of Blockchains](https://www.frontiersin.org/articles/10.3389/fenrg.2019.00021/full)
 * P. De Filippi, [Blockchain et cryptomonnaies](https://www.puf.com/content/Blockchain_et_cryptomonnaies)
-* A. De Vries, [Bitcoin Boom: What Rising Prices Mean for the Network's Energy Consumption](https://www.researchgate.net/publication/349952553_Bitcoin_Boom_What_Rising_Prices_Mean_for_the_Network's_Energy_Consumption)
+* A. De Vries, [Bitcoin Boom: What Rising Prices Mean for the Network's Energy Consumption](https://www.researchgate.net/publication/349952553_Bitcoin_Boom_What_Rising_Prices_Mean_for_the_Network's_Energy_Consumption) (March 2021)
 
 ### Institutional
 
