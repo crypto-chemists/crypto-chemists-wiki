@@ -24,6 +24,15 @@ categories: webinar environment blockchain
 * Network comunication (% of inefficiency?)
 * Storage of blockchain
 
+## What measures, studies & analysis say
+
+## Conclusions
+
+### Technical evolutions ?
+
+### What can we change ? (as users / adopters)
+
+
 ## References
 
 ### Unsorted
