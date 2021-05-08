@@ -57,4 +57,4 @@ categories: webinar environment blockchain
 * JP. Delahaye, [Ne nions pas le problème électrique du Bitcoin](https://bitcoin.fr/ne-nions-pas-le-probleme-electrique-du-bitcoin/)
 * [Youtube - FACT CHECK: Bitcoin Mining is BAD For The Climate!? 🌎](https://www.youtube.com/watch?v=DidAwxWaDKI)
 * T. Nitot, [Standblog - Le bitcoin est il écolo](https://standblog.org/blog/post/2021/04/26/Le-Bitcoin-est-il-ecolo)
-* [Bitcoin Energy Consumption Index](https://digiconomist.net/bitcoin-energy-consumption)
+* Digiconomist, [Bitcoin Energy Consumption Index](https://digiconomist.net/bitcoin-energy-consumption)
