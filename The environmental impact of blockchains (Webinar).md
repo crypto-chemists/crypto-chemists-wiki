@@ -40,7 +40,7 @@ categories: webinar environment blockchain
 * M. Zade, J. Myklebost, P. Tzscheutschler and U. Wagner - [Is Bitcoin the Only Problem? A Scenario Model for the Power Demand of Blockchains](https://www.frontiersin.org/articles/10.3389/fenrg.2019.00021/full)
 * P. De Filippi, [Blockchain et cryptomonnaies](https://www.puf.com/content/Blockchain_et_cryptomonnaies)
 * A. De Vries (March 2021), [Bitcoin Boom: What Rising Prices Mean for the Network's Energy Consumption](https://www.researchgate.net/publication/349952553_Bitcoin_Boom_What_Rising_Prices_Mean_for_the_Network's_Energy_Consumption) 
-* SSRN Electronic Journal (January 2017), [2017 Global Cryptocurrency Benchmarking Study](https://www.researchgate.net/publication/317059599_2017_Global_Cryptocurrency_Benchmarking_Study)
+* Dr G. Hileman & M. Rauchs, (January 2017), [2017 Global Cryptocurrency Benchmarking Study, SSRN Electronic Journal](https://www.researchgate.net/publication/317059599_2017_Global_Cryptocurrency_Benchmarking_Study)
 
 ### Institutional
 
