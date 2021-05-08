@@ -10,7 +10,7 @@ categories: lang_en
 
 ## Welcome
 
-CryptoChemists Wiki is an online collective encyclopedia project designed to centralize knowledge on both blockchains and crypto-currencies. 
+**CryptoChemists Wiki is an online collective encyclopedia project designed to centralize knowledge on both blockchains and crypto-currencies.**
 
 This project works on the wiki principle. It aims to offer freely reusable, objective and verifiable content that anyone can modify and improve.
 
