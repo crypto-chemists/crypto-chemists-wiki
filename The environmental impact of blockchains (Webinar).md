@@ -65,7 +65,7 @@ categories: webinar environment blockchain
 
 ### Organizations, Projects & Whitepapers
 
-* https://proofofstake.com/
+* [‘Proof-of-Stake’ in Blockchain Technology\: All you need to know](https://proofofstake.com/)
 * [Cambridge Bitcoin Electricity Consumption Index (live)](https://cbeci.org/)
     * [Bitcoin Mining Map](https://cbeci.org/mining_map)
 * [Global Bitcoin nodes distribution](https://bitnodes.io/) 
