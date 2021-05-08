@@ -21,7 +21,7 @@ categories: webinar environment blockchain
 * Daniel Larimer. Bitshares – Delegated Proof-of-Stake Consensus
 * https://proofofstake.com/
 * [Hass McCook, The Cost & Sustainability of Bitcoin (August 2018)](https://hassmccook.medium.com/the-economic-environmental-cost-of-bitcoin-part-i-ac162067721d)
-* [Is Bitcoin the Only Problem? A Scenario Model for the Power Demand of Blockchains](https://www.frontiersin.org/articles/10.3389/fenrg.2019.00021/full)
+* [M. Zade*, J. Myklebost, P. Tzscheutschler and U. Wagner, Is Bitcoin the Only Problem? A Scenario Model for the Power Demand of Blockchains](https://www.frontiersin.org/articles/10.3389/fenrg.2019.00021/full)
 
 ### Academic
 
