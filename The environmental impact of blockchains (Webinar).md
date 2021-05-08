@@ -59,3 +59,4 @@ categories: webinar environment blockchain
 * [Youtube - FACT CHECK: Bitcoin Mining is BAD For The Climate!? 🌎](https://www.youtube.com/watch?v=DidAwxWaDKI)
 * T. Nitot, [Standblog - Le bitcoin est il écolo](https://standblog.org/blog/post/2021/04/26/Le-Bitcoin-est-il-ecolo)
 * Digiconomist, [Bitcoin Energy Consumption Index](https://digiconomist.net/bitcoin-energy-consumption)
+* Wired, [Bitcoin's Climate Impact Is Global. The Cures Are Local.](https://www.wired.com/story/bitcoins-climate-impact-global-cures-local/)
