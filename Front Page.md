@@ -50,7 +50,7 @@ Many articles remain to be written. Take a look at the following lists and creat
 ## Upcoming webinars
 
 * 2021-05-25 - [The environmental impact of blockchains](The environmental impact of blockchains (Webinar))
-* 2021-05-27 - [NFT and art: speculation or revolution](NFT and art: speculation or revolution (Webinar))
+* 2021-05-27 - [NFT and art, speculation or revolution?](NFT and art, speculation or revolution (Webinar))
 
 See also the [Webinars]() page for past webinars.
 
