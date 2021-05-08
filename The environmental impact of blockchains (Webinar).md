@@ -42,7 +42,7 @@ categories: webinar environment blockchain
 * J. Sedlmeir, H. U. Buhl, G. Fridgen & R. Keller (June 2020), [The Energy Consumption of Blockchain Technology \: Beyond Myth](https://link.springer.com/article/10.1007/s12599-020-00656-x)
 * A. De Vries (March 2021), [Bitcoin Boom: What Rising Prices Mean for the Network's Energy Consumption](https://www.researchgate.net/publication/349952553_Bitcoin_Boom_What_Rising_Prices_Mean_for_the_Network's_Energy_Consumption)
 * L.Ante, F.Steinmetz, I.Fiedler (March 2021), [Blockchain and energy: A bibliometric analysis and review](https://www.sciencedirect.com/science/article/abs/pii/S1364032120308819)
-
+* C. Mora, R. L. Rollins, K. Taladay, M. B. Kantar, M. K. Chock, M. Shimada, E. C. Franklin (October 2018), [Bitcoin emissions alone could push global warming above 2°C]()
 
 ### Institutional
 
