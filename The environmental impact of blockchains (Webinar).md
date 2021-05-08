@@ -3,9 +3,14 @@ title: The environmental impact of blockchains (Webinar)
 categories: webinar environment blockchain
 ...
 
-## Impact sources
+## Impact types
 
-* Energy consumption (Running the nodes + Consensus algo)
+* Energy consumption (fossile energy? nuclear? ...)
+* Rare minerals
+
+## Impace sources
+
+* Running the nodes + Consensus algo (PoW / PoStake / PoSpace / etC.)
 * Network comunication (% of inefficiency?)
 * Storage of blockchain
 
