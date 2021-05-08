@@ -9,8 +9,6 @@ categories: webinar environment blockchain
 
 ### Technological constraints & functioning
 
-&rArr; The case of Bitcoin, Eth, etc.
-
 ## Environmental Impact 
 
 ### Impact types
@@ -25,6 +23,11 @@ categories: webinar environment blockchain
 * Storage of blockchain
 
 ### What measures, studies & analysis say
+
+* For blockchains (in general) ?
+* The case of Bitcoin ?
+* The case of Ethereum ?
+* Other coins/chains ?
 
 ## Conclusions
 
