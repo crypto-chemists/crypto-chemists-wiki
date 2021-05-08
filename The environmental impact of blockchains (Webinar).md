@@ -3,6 +3,11 @@ title: The environmental impact of blockchains (Webinar)
 categories: webinar environment blockchain
 ...
 
+## Impact sources
+
+* Energy consumption (Running the nodes + Consensus algo)
+* Network comunication (% of inefficiency?)
+* Storage of blockchain
 
 ## References
 
