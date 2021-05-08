@@ -19,15 +19,15 @@ categories: webinar environment blockchain
 ### Unsorted
 
 * Daniel Larimer. Bitshares – Delegated Proof-of-Stake Consensus
-* https://proofofstake.com/
-* Hass McCook - [The Cost & Sustainability of Bitcoin (August 2018)](https://hassmccook.medium.com/the-economic-environmental-cost-of-bitcoin-part-i-ac162067721d)
-* M. Zade, J. Myklebost, P. Tzscheutschler and U. Wagner - [Is Bitcoin the Only Problem? A Scenario Model for the Power Demand of Blockchains](https://www.frontiersin.org/articles/10.3389/fenrg.2019.00021/full)
+
 
 ### Academic
 
 * [J. Sedlmeir, H. U. Buhl, G. Fridgen & R. Keller , The Energy Consumption of Blockchain Technology \: Beyond Myth](https://link.springer.com/article/10.1007/s12599-020-00656-x)
 * [](https://www.sciencedirect.com/science/article/abs/pii/S1364032120308819)
 * [H. Vranken, Sustainability of bitcoin and blockchains](https://www.sciencedirect.com/science/article/abs/pii/S1877343517300015)
+* Hass McCook - [The Cost & Sustainability of Bitcoin (August 2018)](https://hassmccook.medium.com/the-economic-environmental-cost-of-bitcoin-part-i-ac162067721d)
+* M. Zade, J. Myklebost, P. Tzscheutschler and U. Wagner - [Is Bitcoin the Only Problem? A Scenario Model for the Power Demand of Blockchains](https://www.frontiersin.org/articles/10.3389/fenrg.2019.00021/full)
 
 ### Institutionnal
 
@@ -38,6 +38,7 @@ categories: webinar environment blockchain
 ### Organizations
 
 * https://bitnodes.io/
+* https://proofofstake.com/
 
 ### Blogs, vlogs, podcasts
 
