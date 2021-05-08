@@ -51,10 +51,11 @@ categories: webinar environment blockchain
 * CNRS (France), [Consommation énergétique des technologies blockchain](https://ecoinfo.cnrs.fr/2020/02/11/consommation-energetique-des-technologies-blockchain/)
 * European Commission, [Experience the future with the European Blockchain Services Infrastructure (EBSI)](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/ebsi)
 
-### Organizations
+### Organizations & Projects
 
 * https://bitnodes.io/
 * https://proofofstake.com/
+* [Cambridge Bitcoin Electricity Consumption Index (live)](https://cbeci.org/)
 
 ### Blogs, vlogs, podcasts
 
