@@ -64,3 +64,4 @@ categories: webinar environment blockchain
 * T. Nitot, [Standblog - Le bitcoin est il écolo](https://standblog.org/blog/post/2021/04/26/Le-Bitcoin-est-il-ecolo)
 * Digiconomist, [Bitcoin Energy Consumption Index](https://digiconomist.net/bitcoin-energy-consumption)
 * Wired (December 2019), [Bitcoin's Climate Impact Is Global. The Cures Are Local.](https://www.wired.com/story/bitcoins-climate-impact-global-cures-local/)
+* D. Hollerith (October 2020), [Why Bitcoin Miners Don't Use More Renewable Energy](https://decrypt.co/43848/why-bitcoin-miners-dont-use-more-renewable-energy)
