@@ -33,6 +33,7 @@ categories: webinar environment blockchain
 
 * [Consommation énergétique des technologies blockchain](https://ecoinfo.cnrs.fr/2020/02/11/consommation-energetique-des-technologies-blockchain/)
 * [Experience the future with the European Blockchain Services Infrastructure (EBSI)](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/ebsi)
+* https://bitnodes.io/
 
 ### Blogs, vlogs, podcasts
 
