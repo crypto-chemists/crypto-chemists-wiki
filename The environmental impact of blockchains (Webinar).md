@@ -54,6 +54,7 @@ categories: webinar environment blockchain
 
 * https://proofofstake.com/
 * [Cambridge Bitcoin Electricity Consumption Index (live)](https://cbeci.org/)
+    * [Bitcoin Mining Map](https://cbeci.org/mining_map)
 * [Global Bitcoin nodes distribution](https://bitnodes.io/) 
 * [Consensus (types)](https://tokens-economy.gitbook.io/consensus/)
 
