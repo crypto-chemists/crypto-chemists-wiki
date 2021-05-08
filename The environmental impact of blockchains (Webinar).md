@@ -3,6 +3,8 @@ title: The environmental impact of blockchains (Webinar)
 categories: webinar environment blockchain
 ...
 
+**work in progress** : https://www.speare.com/doc/4c4301e9-6b4c-47cd-887e-f16b6076a163
+
 ## Technology overview
 
 ### Type of blockchains
