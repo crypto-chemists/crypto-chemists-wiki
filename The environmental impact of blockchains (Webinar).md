@@ -9,7 +9,7 @@ categories: webinar environment blockchain
 
 ### Technological constraints & functioning
 
-:arrow_right: The case of Bitcoin, Eth, etc.
+&rArr; The case of Bitcoin, Eth, etc.
 
 ## Environmental Impact 
 
