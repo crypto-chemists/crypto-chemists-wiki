@@ -10,3 +10,5 @@ title: Comics
 * Musky, with his DOG(E), chases the wolves...
 
 FIXME: link to the real tweets
+
+* https://mobile.twitter.com/DocumentingBTC/status/1391887632322473984/photo/1
